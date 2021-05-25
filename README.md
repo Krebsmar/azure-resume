@@ -16,3 +16,12 @@ My own azure resume, following ACG project video.
 }
 ```
 - 
+
+
+
+
+
+## ToDo:
+
+- AzureResumeConnectionString -> KeyVault
+- Terraform deployment
