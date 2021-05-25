@@ -1,0 +1,45 @@
+<mxfile modified="2021-05-25T12:10:31.270Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="7tw7_ueDiQdXi1RTmBzW" version="14.5.3" type="github">
+  <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
+    <mxGraphModel dx="582" dy="1602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7goLAyW8q6P4BxXFugxa-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="145" y="40" width="405" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="7goLAyW8q6P4BxXFugxa-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" edge="1" parent="1" source="7goLAyW8q6P4BxXFugxa-1" target="7goLAyW8q6P4BxXFugxa-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7goLAyW8q6P4BxXFugxa-1" value="Azure CDN for &lt;br&gt;HTTPS and &lt;br&gt;custom domain" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/CDN_Profiles.svg;" vertex="1" parent="1">
+          <mxGeometry x="40" y="74" width="68" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7goLAyW8q6P4BxXFugxa-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="7goLAyW8q6P4BxXFugxa-2" target="7goLAyW8q6P4BxXFugxa-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7goLAyW8q6P4BxXFugxa-12" value="HTTP Trigger" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="7goLAyW8q6P4BxXFugxa-10">
+          <mxGeometry x="-0.1818" y="-5" relative="1" as="geometry">
+            <mxPoint x="5" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7goLAyW8q6P4BxXFugxa-2" value="Blob Storage&lt;br&gt;Static website" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Blog_Storage.svg;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="71" width="50" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="7goLAyW8q6P4BxXFugxa-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="7goLAyW8q6P4BxXFugxa-4" target="7goLAyW8q6P4BxXFugxa-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7goLAyW8q6P4BxXFugxa-4" value="Azure Function&lt;br&gt;Visitor Counter" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="64" width="68" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7goLAyW8q6P4BxXFugxa-5" value="CosmosDB&lt;br&gt;Counter Info" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/CosmosDB.svg;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="69" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7goLAyW8q6P4BxXFugxa-6" value="Code and CI/CD &lt;br&gt;with GitHub Actions" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github" vertex="1" parent="1">
+          <mxGeometry x="130" y="164" width="50" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="7goLAyW8q6P4BxXFugxa-7" value="resume.krebsmar.com" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="9" y="40" width="130" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
