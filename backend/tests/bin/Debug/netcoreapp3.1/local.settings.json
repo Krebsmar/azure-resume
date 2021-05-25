@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "AzureResumeConnectionString": "AccountEndpoint=https://krebsmar-resume.documents.azure.com:443/;AccountKey=6v8LaW4gy20IYh01pQhoVbZjjW25pc2csHHdj1nQJOmd7JeVOjZf1uQ4oXbQiJlubUPbHzV51bc7LOe5g3n5ag==;"
+  },
+  "Host":
+  {
+    "CORS": "*"
+  }
+}
