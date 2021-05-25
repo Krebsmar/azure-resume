@@ -27,7 +27,7 @@ jobs:
       with:
         azcliversion: 2.0.72
         inlineScript: |
-           az cdn endpoint purge --content-paths  "/*" --profile-name "krebsmarazureresume" --name "krebsmartazureresume" --resource-group "resume-rg"
+           az cdn endpoint purge --content-paths  "/*" --profile-name "krebsmartazureresume" --name "krebsmartazureresume" --resource-group "resume-rg"
 
   # Azure logout 
     - name: logout
