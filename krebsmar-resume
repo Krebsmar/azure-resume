@@ -1,4 +1,4 @@
-<mxfile modified="2021-05-25T12:00:51.964Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="5zRFJ28uqOMM1tsESxJR" version="14.5.3" type="github">
+<mxfile modified="2021-05-25T12:10:31.270Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="7tw7_ueDiQdXi1RTmBzW" version="14.5.3" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="582" dy="1602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -27,7 +27,7 @@
         <mxCell id="7goLAyW8q6P4BxXFugxa-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="7goLAyW8q6P4BxXFugxa-4" target="7goLAyW8q6P4BxXFugxa-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7goLAyW8q6P4BxXFugxa-4" value="Azure Function&lt;br&gt;Vistor Counter" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="7goLAyW8q6P4BxXFugxa-4" value="Azure Function&lt;br&gt;Visitor Counter" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="340" y="64" width="68" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7goLAyW8q6P4BxXFugxa-5" value="CosmosDB&lt;br&gt;Counter Info" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/CosmosDB.svg;labelBackgroundColor=none;" vertex="1" parent="1">
